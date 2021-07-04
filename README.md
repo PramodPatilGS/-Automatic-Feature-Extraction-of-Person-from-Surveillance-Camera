@@ -1,0 +1,2 @@
+# -Automatic-Feature-Extraction-of-Person-from-Surveillance-Camera
+Complexity in analysing the Large data collected from CCTV cameras.                              Use of CCTV Cameras has raised drastically these days. For an Average Human It is not possible to maintain more than 3-4 frames at a time and the efficiency of work is less as the frames increasing. It is not economical to hire labour to the ratio of cctv cameras to human with 5:1. Hence, there is a need for an intelligent system to simplify the work of human.
